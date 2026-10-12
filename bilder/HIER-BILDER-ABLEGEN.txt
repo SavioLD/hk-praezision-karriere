@@ -1,0 +1,24 @@
+BILDMATERIAL FÜR DIE KARRIERESEITE HK-PRÄZISIONSTECHNIK
+=======================================================
+
+Alle Dateien einfach in diesen Ordner (bilder/) legen. Die Seite erkennt
+sie automatisch – fehlt eine Datei, bleibt der CI-Verlauf bzw. der
+Logo-Ausschnitt aus der Mail-Signatur stehen (nie ein kaputtes Bild).
+
+1) LOGO (Topbar, Hero, Footer, später Creatives und Facebook)
+   bilder/hk-logo.svg   bevorzugt (oder bilder/hk-logo.png)
+   Bitte das Original verwenden – nicht nachbauen, nicht einfärben.
+   Bis dahin: hk-logo-aus-signatur.png (Ausschnitt aus der E-Mail).
+
+2) HERO-FOTOS (großes Bild oben)
+   bilder/hero.jpg                    allgemein (ohne ?stelle=…)
+   bilder/hero-konstrukteur.jpg       bei ?stelle=konstrukteur
+   bilder/hero-servicetechniker.jpg   bei ?stelle=servicetechniker
+
+   Querformat, mindestens ~1600 px breit. Das Motiv sollte rechts liegen –
+   links liegt die Textfläche.
+
+3) WEITERE FOTOS FÜR DIE CREATIVES (Schritt 2)
+   Gern mit sprechenden Namen, z. B. konstruktion-cad.jpg,
+   montage-ofen.jpg, team.jpg, vorrichtung.jpg – je höher aufgelöst,
+   desto besser.
